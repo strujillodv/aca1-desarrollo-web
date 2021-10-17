@@ -1,0 +1,9 @@
+.main-container{
+  overflow: hidden;
+}
+
+.card-no-content {
+  width: 100%;
+  max-width: 500px;
+  padding: 16px;
+}
